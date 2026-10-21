@@ -12,6 +12,8 @@
             <h1>>This is simply a test</h1>
             <h2>This has no other purpose</h2>
             <h3>Are you ready?</h3>
+
+            <asp:Label ID="NonsenseLabel" runat="server" Text="The static magic number is 425!"></asp:Label>
         </div>
     </form>
 </body>
